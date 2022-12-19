@@ -1,0 +1,14 @@
+{
+    "name": "shapeblock/sample-php",
+    "description": "Sample PHP application for Shapeblock",
+    "type": "project",
+    "require": {
+        "alrik11es/cowsayphp": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Lakshmi Narasimhan",
+            "email": "lakshmi@lakshminp.com"
+        }
+    ]
+}
